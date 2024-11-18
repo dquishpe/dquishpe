@@ -22,6 +22,7 @@
 ## 🪪 **Sobre Mí**
 Soy un estudiante dedicado con un gran interés en aprender y aplicar nuevas tecnologías. Me encanta resolver problemas y crear experiencias de usuario atractivas.  
 Desde el primer código que escribí, me enamoré de la programación y sus posibilidades. Me interesa el área de la ciencia de datos, inteligencia artificial y desarrollo web, y profundicé en lenguajes como Python, JavaScript y Java, que utilizo para construir aplicaciones y soluciones orientadas a resolver problemas reales.
+
 - **Mi Currículum:** [https://dquishpe.github.io/curriculum/](https://dquishpe.github.io/curriculum/)
 
 ---
@@ -61,7 +62,6 @@ Aquí te presento algunos de los proyectos que he desarrollado:
 ## 🚀 **Tecnologías y Herramientas**  
 Estas son algunas de las herramientas y tecnologías con las que he trabajado:  
 
-<div align= center>
 ![Java](https://img.shields.io/badge/Java-FF4F4F?style=for-the-badge&logo=java&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFC300?style=for-the-badge&logo=javascript&logoColor=black)  
@@ -70,7 +70,7 @@ Estas son algunas de las herramientas y tecnologías con las que he trabajado:
 ![React](https://img.shields.io/badge/React-00C6FF?style=for-the-badge&logo=react&logoColor=black) 
 ![HTML](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS-2980B9?style=for-the-badge&logo=css3&logoColor=white)  
-</div>
+
 ---
 
 
