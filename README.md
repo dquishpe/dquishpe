@@ -9,6 +9,10 @@
 <a href="https://twitter.com/elirivera123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 </p>
 
+<div align="center">
+  <img src="imagenes/gif1.gif)" alt="Gif" />
+</div>
+
 ## 🌟 **Contenido**
 * [Sobre Mí](#-sobre-mí)
 * [Intereses](#-intereses)
@@ -39,24 +43,23 @@ Desde el primer código que escribí, me enamoré de la programación y sus posi
 Aquí te presento algunos de los proyectos que he desarrollado:  
 
 ### 1. 🪞 **Landing page: Glowy skin**  
-- **Descripción:** Este proyecto es una landing page interactiva dedicada a productos de skincare. Ofrece una experiencia intuitiva y organizada, permitiendo a los usuarios explorar productos según su tipo, tipo de piel y rutinas de cuidado personal. La interfaz está diseñada para ser visualmente atractiva y fácil de usar, mientras que el contenido se presenta de manera clara y accesible.
+- **Descripción:** Este proyecto es una landing page interactiva dedicada a productos de skincare. Ofrece una experiencia intuitiva y organizada, permitiendo a los usuarios explorar productos según su tipo, tipo de piel y rutinas de cuidado personal.
 - **Tecnologías utilizadas:** JavaScript, Bootstrap, Firebase, HTML, CSS.  
 - [🔗 Repositorio](https://github.com/usuario/proyecto1)
+![Previsualización](assets/grafica.png) 
 
 ### 2. 💡 **Polinator**  
-- **Descripción:** Polinator es una aplicación interactiva desarrollada para adivinar lo que estás pensando, ya sea un animal, superhéroe o personaje de una sitcom. Utiliza un árbol binario completo como base lógica para realizar preguntas dinámicas y llegar a la respuesta correcta. La interfaz es moderna y amigable, diseñada para proporcionar una experiencia entretenida e intuitiva.
+- **Descripción:** Polinator es una aplicación interactiva desarrollada para adivinar lo que estás pensando, ya sea un animal, superhéroe o personaje de una sitcom. La interfaz es moderna y amigable, diseñada para proporcionar una experiencia entretenida e intuitiva.
 - **Tecnologías utilizadas:** Java, JavaFX, CSS.  
 - [🔗 Repositorio](https://github.com/randyRivera0/Polinator.git)
+![Interfaz del proyecto](imagenes/polinator.png)
 
 ### 3. 🌐 **Repositorio ESPOL**  
-- **Descripción:** Repositorio ESPOL es una aplicación diseñada para gestionar y compartir recursos académicos de manera eficiente. El sistema cuenta con dos tipos de usuarios: estudiantes y administradores. Los administradores (ayudantes y profesores) pueden subir y organizar lecciones, exámenes, apuntes y otros materiales de estudio, mientras que los estudiantes pueden acceder a estos recursos de forma sencilla. La interfaz es clara y funcional, ofreciendo herramientas de búsqueda y navegación intuitivas para facilitar el aprendizaje.
+- **Descripción:** Repositorio ESPOL es una aplicación diseñada para gestionar y compartir recursos académicos de manera eficiente. Los administradores pueden subir y organizar lecciones, exámenes, apuntes y otros materiales de estudio, mientras que los estudiantes pueden acceder a estos recursos de forma sencilla.
 - **Tecnologías utilizadas:** MySQL, Java, JavaFX, CSS.  
 - [🔗 Repositorio](https://github.com/randyRivera0/EduRepoEspol.git)
+![Interfaz del proyecto](imagenes/edurepo.png)
 
-### 4. 🚗 **Tu Auto Ideal**  
-- **Descripción:** Tu Auto Ideal es una aplicación diseñada para facilitar la compra y venta de autos usados, ofreciendo funcionalidades personalizadas que permiten a los usuarios explorar vehículos según características específicas como marca, modelo, precio y más. El sistema incluye herramientas para organizar, filtrar y gestionar los autos de forma eficiente, brindando una experiencia fluida tanto para compradores como para vendedores. 
-- **Tecnologías utilizadas:** Java, JavaFX, CSS.  
-- [🔗 Repositorio](https://github.com/leozam02/ProyectoEstructura1p.git)
 ---
 
 ## 🚀 **Tecnologías y Herramientas**  
