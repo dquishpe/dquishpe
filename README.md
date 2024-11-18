@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-  <iframe src="https://assets.pinterest.com/ext/embed.html?id=717268678168057748" height="359" width="345" frameborder="0" scrolling="no" ></iframe>
+    <img src="imagenes/gif1.gif" alt="Gif" width="300" />
 </div>
 
 ## 🌟 **Contenido**
