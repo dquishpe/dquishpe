@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-  <img src="imagenes/gif1.gif)" alt="Gif" />
+  <iframe src="https://assets.pinterest.com/ext/embed.html?id=717268678168057748" height="359" width="345" frameborder="0" scrolling="no" ></iframe>
 </div>
 
 ## 🌟 **Contenido**
@@ -46,19 +46,20 @@ Aquí te presento algunos de los proyectos que he desarrollado:
 - **Descripción:** Este proyecto es una landing page interactiva dedicada a productos de skincare. Ofrece una experiencia intuitiva y organizada, permitiendo a los usuarios explorar productos según su tipo, tipo de piel y rutinas de cuidado personal.
 - **Tecnologías utilizadas:** JavaScript, Bootstrap, Firebase, HTML, CSS.  
 - [🔗 Repositorio](https://github.com/usuario/proyecto1)
-![Previsualización](assets/grafica.png) 
+<img src="assets/grafica.png" alt="LandingPage" width="300" />
+
 
 ### 2. 💡 **Polinator**  
 - **Descripción:** Polinator es una aplicación interactiva desarrollada para adivinar lo que estás pensando, ya sea un animal, superhéroe o personaje de una sitcom. La interfaz es moderna y amigable, diseñada para proporcionar una experiencia entretenida e intuitiva.
 - **Tecnologías utilizadas:** Java, JavaFX, CSS.  
 - [🔗 Repositorio](https://github.com/randyRivera0/Polinator.git)
-![Interfaz del proyecto](imagenes/polinator.png)
+<img src="imagenes/polinator.png" alt="Polinator" width="300" />
 
 ### 3. 🌐 **Repositorio ESPOL**  
 - **Descripción:** Repositorio ESPOL es una aplicación diseñada para gestionar y compartir recursos académicos de manera eficiente. Los administradores pueden subir y organizar lecciones, exámenes, apuntes y otros materiales de estudio, mientras que los estudiantes pueden acceder a estos recursos de forma sencilla.
 - **Tecnologías utilizadas:** MySQL, Java, JavaFX, CSS.  
 - [🔗 Repositorio](https://github.com/randyRivera0/EduRepoEspol.git)
-![Interfaz del proyecto](imagenes/edurepo.png)
+<img src="imagenes/edurepo.png" alt="RepoEspol" width="300" />
 
 ---
 
