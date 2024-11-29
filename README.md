@@ -1,4 +1,7 @@
-<!-- # 🌟 **Hola, soy Dhamar Quishpe Rivera** 🌟 -->
+<head>
+    <link rel="icon" href="imagenes/icono.png" type="image/x-icon">
+</head>
+
 <h1 align="center">Hola, Soy Dhamar Quishpe 👩‍💻</h1>
 
 <h3 align="center">Una apasionada programadora y desarrolladora web apasionado por crear soluciones eficientes 🚀</h3>
@@ -46,6 +49,7 @@ Aquí te presento algunos de los proyectos que he desarrollado:
 - **Descripción:** Este proyecto consiste en crear una landing page interactiva para una tienda de libros, con secciones para nuevos lanzamientos y géneros destacados. Utiliza HTML, CSS y Bootstrap para un diseño responsivo, JavaScript para interactividad, y Firebase para gestionar datos en tiempo real, ofreciendo una experiencia moderna y atractiva para los amantes de la lectura.
 - **Tecnologías utilizadas:** JavaScript, Bootstrap, Firebase, HTML, CSS.  
 - [🔗 Repositorio](https://github.com/usuario/proyecto1)
+
 <img src="imagenes/landing.png" alt="LandingPage" width="300" />
 
 
@@ -53,18 +57,22 @@ Aquí te presento algunos de los proyectos que he desarrollado:
 - **Descripción:** Polinator es una aplicación interactiva desarrollada para adivinar lo que estás pensando, ya sea un animal, superhéroe o personaje de una sitcom. La interfaz es moderna y amigable, diseñada para proporcionar una experiencia entretenida e intuitiva.
 - **Tecnologías utilizadas:** Java, JavaFX, CSS.  
 - [🔗 Repositorio](https://github.com/randyRivera0/Polinator.git)
+
 <img src="imagenes/polinator.png" alt="Polinator" width="300" />
 
 ### 3. 🌐 **Repositorio ESPOL**  
 - **Descripción:** Repositorio ESPOL es una aplicación diseñada para gestionar y compartir recursos académicos de manera eficiente. Los administradores pueden subir y organizar lecciones, exámenes, apuntes y otros materiales de estudio, mientras que los estudiantes pueden acceder a estos recursos de forma sencilla.
 - **Tecnologías utilizadas:** MySQL, Java, JavaFX, CSS.  
 - [🔗 Repositorio](https://github.com/randyRivera0/EduRepoEspol.git)
+
 <img src="imagenes/edurepo.png" alt="RepoEspol" width="300" />
 
 ---
 
 ## 🚀 **Tecnologías y Herramientas**  
 Estas son algunas de las herramientas y tecnologías con las que he trabajado:  
+
+<div align="center">
 
 ![Java](https://img.shields.io/badge/Java-FF4F4F?style=for-the-badge&logo=java&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white)
@@ -75,12 +83,18 @@ Estas son algunas de las herramientas y tecnologías con las que he trabajado:
 ![HTML](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS-2980B9?style=for-the-badge&logo=css3&logoColor=white)  
 
+</div>
 ---
 
 
 ## 📊 **Estadísticas de GitHub**  
+
+<div align="center">
+
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=dquishpe&show_icons=true&theme=dracula)  
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=dquishpe&layout=compact&theme=dracula)
+
+</div>
 
 ---
 
