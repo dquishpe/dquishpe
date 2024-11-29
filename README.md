@@ -1,5 +1,5 @@
 <head>
-    <link rel="icon" href="imagenes/icono.png" type="image/x-icon">
+    <link rel="icon" href="../imagenes/icono.png" type="image/x-icon">
 </head>
 
 <h1 align="center">Hola, Soy Dhamar Quishpe 👩‍💻</h1>
@@ -75,12 +75,19 @@ Estas son algunas de las herramientas y tecnologías con las que he trabajado:
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-FF4F4F?style=for-the-badge&logo=java&logoColor=white)  
+
 ![Python](https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFC300?style=for-the-badge&logo=javascript&logoColor=black)  
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-2E7D32?style=for-the-badge&logo=typescript&logoColor=white)      
+
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) 
+
 ![React](https://img.shields.io/badge/React-00C6FF?style=for-the-badge&logo=react&logoColor=black) 
+
 ![HTML](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white)  
+
 ![CSS](https://img.shields.io/badge/CSS-2980B9?style=for-the-badge&logo=css3&logoColor=white)  
 
 </div>
@@ -92,6 +99,7 @@ Estas son algunas de las herramientas y tecnologías con las que he trabajado:
 <div align="center">
 
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=dquishpe&show_icons=true&theme=dracula)  
+
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=dquishpe&layout=compact&theme=dracula)
 
 </div>
