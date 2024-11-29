@@ -6,7 +6,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/dhamar-quishpe-280035229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
 <a href="https://instagram.com/sweetdhami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://twitter.com/elirivera123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://twitter.com/elirivera1231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 </p>
 
 <div align="center">
@@ -42,11 +42,11 @@ Desde el primer código que escribí, me enamoré de la programación y sus posi
 ## 💼 **Proyectos**  
 Aquí te presento algunos de los proyectos que he desarrollado:  
 
-### 1. 🪞 **Landing page: Glowy skin**  
-- **Descripción:** Este proyecto es una landing page interactiva dedicada a productos de skincare. Ofrece una experiencia intuitiva y organizada, permitiendo a los usuarios explorar productos según su tipo, tipo de piel y rutinas de cuidado personal.
+### 1. 🪞 **Landing page: El Rincón de las Letras**  
+- **Descripción:** Este proyecto consiste en crear una landing page interactiva para una tienda de libros, con secciones para nuevos lanzamientos y géneros destacados. Utiliza HTML, CSS y Bootstrap para un diseño responsivo, JavaScript para interactividad, y Firebase para gestionar datos en tiempo real, ofreciendo una experiencia moderna y atractiva para los amantes de la lectura.
 - **Tecnologías utilizadas:** JavaScript, Bootstrap, Firebase, HTML, CSS.  
 - [🔗 Repositorio](https://github.com/usuario/proyecto1)
-<img src="assets/grafica.png" alt="LandingPage" width="300" />
+<img src="imagenes/landing.png" alt="LandingPage" width="300" />
 
 
 ### 2. 💡 **Polinator**  
@@ -85,7 +85,7 @@ Estas son algunas de las herramientas y tecnologías con las que he trabajado:
 ---
 
 ## 📞 **Contáctame**  
-- 📧 **Correo:** [dquishpe@espol.edu.ec](dquishpe@espol.edu.ec)  
+- 📧 **Correo:** [dquishpe@espol.edu.ec](mailto:dquishpe@espol.edu.ec)  
 - 💼 **LinkedIn:** ["https://www.linkedin.com/in/dhamar-quishpe-280035229/"](https://www.linkedin.com/in/dhamar-quishpe-280035229/)  
 
 
