@@ -108,24 +108,12 @@ Estas son algunas de las herramientas y tecnologías con las que he trabajado:
 
 <div align="center" style="font-family: 'Arial', sans-serif;">
 
-<h2 style="color: #4A90E2; font-size: 30px; animation: fadeIn 2s infinite alternate;">  
+<h2 style="color: #6f3974; font-size: 30px; ">  
 ✨ La tecnología es el lenguaje que uso para transformar ideas en realidades ✨  
 </h2>
 
 </div>
 
-<style>
-@keyframes fadeIn {
-  0% {
-    opacity: 0.5;
-    transform: scale(1);
-  }
-  100% {
-    opacity: 1;
-    transform: scale(1.05);
-  }
-}
-</style>
 
 ¡Gracias por visitar mi portafolio! 😊
 
