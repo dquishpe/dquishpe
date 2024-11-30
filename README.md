@@ -1,7 +1,9 @@
 # 💻 Dhamar Quishpe
 <h1 align="center">Hola, Soy Dhamar Quishpe 👩‍💻</h1>
 
-<h3 align="center">Una apasionada programadora y desarrolladora web apasionado por crear soluciones eficientes 🚀</h3>
+<h2> Desarrolladora Web | Amante del Código | Solucionadora de Problemas 🚀 </h2>
+
+<h3 align="center">Una apasionada programadora y desarrolladora web apasionada por crear soluciones eficientes 🚀</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/dhamar-quishpe-280035229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
@@ -31,6 +33,29 @@ Desde el primer código que escribí, me enamoré de la programación y sus posi
 
 ---
 
+<div align="center" style="font-family: 'Arial', sans-serif;">
+
+<h2 style="color: #4A90E2; font-size: 30px; animation: fadeIn 2s infinite alternate;">  
+✨ La tecnología es el lenguaje que uso para transformar ideas en realidades ✨  
+</h2>
+
+</div>
+
+<style>
+@keyframes fadeIn {
+  0% {
+    opacity: 0.5;
+    transform: scale(1);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1.05);
+  }
+}
+</style>
+
+---
+
 ## 🌟 **Intereses** 
 - Inteligencia Artificial: Investigo y aplico técnicas de aprendizaje automático y procesamiento de lenguaje natural.  
 - Ciencia de Datos: Analizo datos para obtener insights y desarrollar modelos predictivos.   
@@ -42,16 +67,8 @@ Desde el primer código que escribí, me enamoré de la programación y sus posi
 ## 💼 **Proyectos**  
 Aquí te presento algunos de los proyectos que he desarrollado:  
 
-### 1. 🪞 **Landing page: El Rincón de las Letras**  
-- **Descripción:** Este proyecto consiste en crear una landing page interactiva para una tienda de libros, con secciones para nuevos lanzamientos y géneros destacados. Utiliza HTML, CSS y Bootstrap para un diseño responsivo, JavaScript para interactividad, y Firebase para gestionar datos en tiempo real, ofreciendo una experiencia moderna y atractiva para los amantes de la lectura.
-- **Tecnologías utilizadas:** JavaScript, Bootstrap, Firebase, HTML, CSS.  
-- [🔗 Repositorio](https://github.com/usuario/proyecto1)
 
-<div align="center">
-    <img src="imagenes/landing.png" alt="LandingPage" width="300" />
-</div>
-
-### 2. 💡 **Polinator**  
+### 1. 💡 **Polinator**  
 - **Descripción:** Polinator es una aplicación interactiva desarrollada para adivinar lo que estás pensando, ya sea un animal, superhéroe o personaje de una sitcom. La interfaz es moderna y amigable, diseñada para proporcionar una experiencia entretenida e intuitiva.
 - **Tecnologías utilizadas:** Java, JavaFX, CSS.  
 - [🔗 Repositorio](https://github.com/randyRivera0/Polinator.git)
@@ -60,7 +77,7 @@ Aquí te presento algunos de los proyectos que he desarrollado:
     <img src="imagenes/polinator.png" alt="Polinator" width="300" />
 </div>
 
-### 3. 🌐 **Repositorio ESPOL**  
+### 2. 🌐 **Repositorio ESPOL**  
 - **Descripción:** Repositorio ESPOL es una aplicación diseñada para gestionar y compartir recursos académicos de manera eficiente. Los administradores pueden subir y organizar lecciones, exámenes, apuntes y otros materiales de estudio, mientras que los estudiantes pueden acceder a estos recursos de forma sencilla.
 - **Tecnologías utilizadas:** MySQL, Java, JavaFX, CSS.  
 - [🔗 Repositorio](https://github.com/randyRivera0/EduRepoEspol.git)
@@ -68,19 +85,33 @@ Aquí te presento algunos de los proyectos que he desarrollado:
 <div align="center">
     <img src="imagenes/edurepo.png" alt="RepoEspol" width="300" />
 </div>
+
+### 3. 🪞 **Landing page: El Rincón de las Letras**  
+- **Descripción:** Este proyecto consiste en crear una landing page interactiva para una tienda de libros, con secciones para nuevos lanzamientos y géneros destacados. Utiliza HTML, CSS y Bootstrap para un diseño responsivo, JavaScript para interactividad, y Firebase para gestionar datos en tiempo real, ofreciendo una experiencia moderna y atractiva para los amantes de la lectura.
+- **Tecnologías utilizadas:** JavaScript, Bootstrap, Firebase, HTML, CSS.  
+- [🔗 Repositorio](https://github.com/dquishpe/dashboard.git)
+
+<div align="center">
+    <img src="imagenes/landing.png" alt="LandingPage" width="300" />
+</div>
+
 ---
 
 ## 🚀 **Tecnologías y Herramientas**  
 Estas son algunas de las herramientas y tecnologías con las que he trabajado:  
 
-![Java](https://img.shields.io/badge/Java-FF4F4F?style=for-the-badge&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFC300?style=for-the-badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-2E7D32?style=for-the-badge&logo=typescript&logoColor=white)      
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) 
-![React](https://img.shields.io/badge/React-00C6FF?style=for-the-badge&logo=react&logoColor=black) 
-![HTML](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-2980B9?style=for-the-badge&logo=css3&logoColor=white)  
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-FF4F4F?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-FFC300?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-2E7D32?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/React-00C6FF?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-2980B9?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+
+</div>
 
 ---
 
