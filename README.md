@@ -66,7 +66,7 @@ Aquí te presento algunos de los proyectos que he desarrollado:
 ### 3. 🪞 **Landing page: El Rincón de las Letras**  
 - **Descripción:** Este proyecto consiste en crear una landing page interactiva para una tienda de libros, con secciones para nuevos lanzamientos y géneros destacados. Utiliza HTML, CSS y Bootstrap para un diseño responsivo, JavaScript para interactividad, y Firebase para gestionar datos en tiempo real, ofreciendo una experiencia moderna y atractiva para los amantes de la lectura.
 - **Tecnologías utilizadas:** JavaScript, Bootstrap, Firebase, HTML, CSS.  
-- [🔗 Repositorio](https://github.com/dquishpe/dashboard.git)
+- [🔗 Repositorio](https://github.com/dquishpe/landing.git)
 
 <div align="center">
     <img src="imagenes/landing.png" alt="LandingPage" width="300" />
