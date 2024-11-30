@@ -1,19 +1,19 @@
 # 💻 Dhamar Quishpe
-<h1 align="center">Hola, Soy Dhamar Quishpe 👩‍💻</h1>
+<div align= "center">
+<h1>Hola, Soy Dhamar Quishpe 👩‍💻</h1>
 
-<h2> Desarrolladora Web | Amante del Código | Solucionadora de Problemas 🚀 </h2>
+<h2> Desarrolladora Web | Amante del Código | Solucionadora de Problemas </h2>
+<h3>Una apasionada programadora y desarrolladora web apasionada por crear soluciones eficientes 🚀</h3>
 
-<h3 align="center">Una apasionada programadora y desarrolladora web apasionada por crear soluciones eficientes 🚀</h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/dhamar-quishpe-280035229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
-<a href="https://instagram.com/sweetdhami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://twitter.com/elirivera1231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<p>
+    <a href="https://www.linkedin.com/in/dhamar-quishpe-280035229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
+    <a href="https://instagram.com/sweetdhami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+    <a href="https://twitter.com/elirivera1231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 </p>
-
-<div align="center">
-    <img src="imagenes/gif1.gif" alt="Gif" width="300" />
+<img src="imagenes/gif1.gif" alt="Gif" width="300" />
 </div>
+
+--
 
 ## 🌟 **Contenido**
 * [Sobre Mí](#-sobre-mí)
@@ -30,29 +30,6 @@ Soy un estudiante dedicado con un gran interés en aprender y aplicar nuevas tec
 Desde el primer código que escribí, me enamoré de la programación y sus posibilidades. Me interesa el área de la ciencia de datos, inteligencia artificial y desarrollo web, y profundicé en lenguajes como Python, JavaScript y Java, que utilizo para construir aplicaciones y soluciones orientadas a resolver problemas reales.
 
 - **Mi Currículum:** [https://dquishpe.github.io/curriculum/](https://dquishpe.github.io/curriculum/)
-
----
-
-<div align="center" style="font-family: 'Arial', sans-serif;">
-
-<h2 style="color: #4A90E2; font-size: 30px; animation: fadeIn 2s infinite alternate;">  
-✨ La tecnología es el lenguaje que uso para transformar ideas en realidades ✨  
-</h2>
-
-</div>
-
-<style>
-@keyframes fadeIn {
-  0% {
-    opacity: 0.5;
-    transform: scale(1);
-  }
-  100% {
-    opacity: 1;
-    transform: scale(1.05);
-  }
-}
-</style>
 
 ---
 
@@ -127,6 +104,28 @@ Estas son algunas de las herramientas y tecnologías con las que he trabajado:
 - 📧 **Correo:** [dquishpe@espol.edu.ec](mailto:dquishpe@espol.edu.ec)  
 - 💼 **LinkedIn:** ["https://www.linkedin.com/in/dhamar-quishpe-280035229/"](https://www.linkedin.com/in/dhamar-quishpe-280035229/)  
 
+---
+
+<div align="center" style="font-family: 'Arial', sans-serif;">
+
+<h2 style="color: #4A90E2; font-size: 30px; animation: fadeIn 2s infinite alternate;">  
+✨ La tecnología es el lenguaje que uso para transformar ideas en realidades ✨  
+</h2>
+
+</div>
+
+<style>
+@keyframes fadeIn {
+  0% {
+    opacity: 0.5;
+    transform: scale(1);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1.05);
+  }
+}
+</style>
 
 ¡Gracias por visitar mi portafolio! 😊
 
