@@ -1,9 +1,9 @@
 # 💻 Dhamar Quishpe
-<div align= "center">
-<h1>Hola, Soy Dhamar Quishpe 👩‍💻</h1>
+<div align="center">
+<h1>Hi, I'm Dhamar Quishpe 👩‍💻</h1>
 
-<h2> Desarrolladora Web | Amante del Código | Solucionadora de Problemas </h2>
-<h3>Una apasionada programadora y desarrolladora web apasionada por crear soluciones eficientes 🚀</h3>
+<h2> Web Developer | Code Enthusiast | Problem Solver </h2>
+<h3>A passionate programmer and web developer focused on creating efficient solutions 🚀</h3>
 
 <p>
     <a href="https://www.linkedin.com/in/dhamar-quishpe-280035229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
@@ -14,58 +14,57 @@
 
 --
 
-## 🌟 **Contenido**
-* [Sobre Mí](#-sobre-mí)
-* [Intereses](#-intereses)
-* [Proyectos](#-proyectos)
-* [Tecnologías y herramientas](#-tecnologías-y-herramientas)
-* [Estadísticas de GitHub](#-estadísticas-de-github)
-* [Contáctame](#-contáctame)
+## 🌟 **Contents**
+* [About Me](#-about-me)
+* [Interests](#-interests)
+* [Projects](#-projects)
+* [Technologies & Tools](#-technologies--tools)
+* [GitHub Stats](#-github-stats)
+* [Contact Me](#-contact-me)
 
 ---
 
-## 🪪 **Sobre Mí**
-Soy un estudiante dedicado con un gran interés en aprender y aplicar nuevas tecnologías. Me encanta resolver problemas y crear experiencias de usuario atractivas.  
-Desde el primer código que escribí, me enamoré de la programación y sus posibilidades. Me interesa el área de la ciencia de datos, inteligencia artificial y desarrollo web, y profundicé en lenguajes como Python, JavaScript y Java, que utilizo para construir aplicaciones y soluciones orientadas a resolver problemas reales.
+## 🪪 **About Me**
+I’m a dedicated student with a strong passion for learning and applying new technologies. I love solving problems and crafting engaging user experiences.  
+Since I wrote my first line of code, I fell in love with programming and its possibilities. I'm particularly interested in data science, artificial intelligence, and web development. I’ve developed projects using Python, JavaScript, and Java—building solutions to solve real-world problems.
 
-- **Mi Currículum:** [https://dquishpe.github.io/curriculum/](https://dquishpe.github.io/curriculum/)
-
----
-
-## 🌟 **Intereses** 
-- Inteligencia Artificial: Investigo y aplico técnicas de aprendizaje automático y procesamiento de lenguaje natural.  
-- Ciencia de Datos: Analizo datos para obtener insights y desarrollar modelos predictivos.   
-- Desarrollo Frontend y Backend: Me apasiona crear aplicaciones web completas, desde interfaces atractivas hasta funcionalidades robustas en el servidor.  
-- Diseño de Interfaces Intuitivas: Me enfoco en garantizar una excelente experiencia de usuario mediante diseños limpios y funcionales.  
+- **My Resume:** [https://dquishpe.github.io/curriculum/](https://dquishpe.github.io/curriculum/)
 
 ---
 
-## 💼 **Proyectos**  
-Aquí te presento algunos de los proyectos que he desarrollado:  
+## 🌟 **Interests**
+- Artificial Intelligence: I research and apply machine learning and natural language processing techniques.  
+- Data Science: I analyze data to extract insights and build predictive models.  
+- Frontend & Backend Development: I’m passionate about building complete web applications, from sleek interfaces to robust server-side features.  
+- Intuitive Interface Design: I focus on ensuring an excellent user experience through clean and functional UI design.  
 
+---
+
+## 💼 **Projects**  
+Here are some of the projects I've developed:  
 
 ### 1. 💡 **Polinator**  
-- **Descripción:** Polinator es una aplicación interactiva desarrollada para adivinar lo que estás pensando, ya sea un animal, superhéroe o personaje de una sitcom. La interfaz es moderna y amigable, diseñada para proporcionar una experiencia entretenida e intuitiva.
-- **Tecnologías utilizadas:** Java, JavaFX, CSS.  
-- [🔗 Repositorio](https://github.com/randyRivera0/Polinator.git)
+- **Description:** Polinator is an interactive app designed to guess what you're thinking—whether it's an animal, superhero, or sitcom character. The interface is sleek and user-friendly, aiming to provide an engaging and intuitive experience.  
+- **Technologies used:** Java, JavaFX, CSS  
+- [🔗 Repository](https://github.com/randyRivera0/Polinator.git)
 
 <div align="center">
     <img src="imagenes/polinator.png" alt="Polinator" width="300" />
 </div>
 
-### 2. 🌐 **Repositorio ESPOL**  
-- **Descripción:** Repositorio ESPOL es una aplicación diseñada para gestionar y compartir recursos académicos de manera eficiente. Los administradores pueden subir y organizar lecciones, exámenes, apuntes y otros materiales de estudio, mientras que los estudiantes pueden acceder a estos recursos de forma sencilla.
-- **Tecnologías utilizadas:** MySQL, Java, JavaFX, CSS.  
-- [🔗 Repositorio](https://github.com/randyRivera0/EduRepoEspol.git)
+### 2. 🌐 **ESPOL Repository**  
+- **Description:** ESPOL Repository is an app designed to efficiently manage and share academic resources. Admins can upload and organize lessons, exams, notes, and other study materials, while students can access them easily.  
+- **Technologies used:** MySQL, Java, JavaFX, CSS  
+- [🔗 Repository](https://github.com/randyRivera0/EduRepoEspol.git)
 
 <div align="center">
     <img src="imagenes/edurepo.png" alt="RepoEspol" width="300" />
 </div>
 
-### 3. 🪞 **Landing page: El Rincón de las Letras**  
-- **Descripción:** Este proyecto consiste en crear una landing page interactiva para una tienda de libros, con secciones para nuevos lanzamientos y géneros destacados. Utiliza HTML, CSS y Bootstrap para un diseño responsivo, JavaScript para interactividad, y Firebase para gestionar datos en tiempo real, ofreciendo una experiencia moderna y atractiva para los amantes de la lectura.
-- **Tecnologías utilizadas:** JavaScript, Bootstrap, Firebase, HTML, CSS.  
-- [🔗 Repositorio](https://github.com/dquishpe/landing.git)
+### 3. 🪞 **Landing Page: El Rincón de las Letras**  
+- **Description:** This project features an interactive landing page for a bookstore, including sections for new releases and featured genres. It uses HTML, CSS, and Bootstrap for responsive design, JavaScript for interactivity, and Firebase for real-time data handling—offering a modern and appealing experience for book lovers.  
+- **Technologies used:** JavaScript, Bootstrap, Firebase, HTML, CSS  
+- [🔗 Repository](https://github.com/dquishpe/landing.git)
 
 <div align="center">
     <img src="imagenes/landing.png" alt="LandingPage" width="300" />
@@ -73,8 +72,8 @@ Aquí te presento algunos de los proyectos que he desarrollado:
 
 ---
 
-## 🚀 **Tecnologías y Herramientas**  
-Estas son algunas de las herramientas y tecnologías con las que he trabajado:  
+## 🚀 **Technologies & Tools**  
+Here are some of the technologies and tools I've worked with:  
 
 <div align="center">
 
@@ -91,28 +90,17 @@ Estas son algunas de las herramientas y tecnologías con las que he trabajado:
 
 ---
 
+## 📊 **GitHub Stats**  
 
-## 📊 **Estadísticas de GitHub**  
-
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=dquishpe&show_icons=true&theme=dracula)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=dquishpe&layout=compact&theme=dracula)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dquishpe&show_icons=true&theme=dracula)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dquishpe&layout=compact&theme=dracula)
 
 ---
 
-## 📞 **Contáctame**  
-- 📧 **Correo:** [dquishpe@espol.edu.ec](mailto:dquishpe@espol.edu.ec)  
-- 💼 **LinkedIn:** ["https://www.linkedin.com/in/dhamar-quishpe-280035229/"](https://www.linkedin.com/in/dhamar-quishpe-280035229/)  
+## 📞 **Contact Me**  
+- 📧 **Email:** [dquishpe@espol.edu.ec](mailto:dquishpe@espol.edu.ec)  
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/dhamar-quishpe-280035229/](https://www.linkedin.com/in/dhamar-quishpe-280035229/)  
 
 ---
 
 <div align="center" style="font-family: 'Arial', sans-serif;">
-
-<h2 style="color: #6f3974; font-size: 30px; ">  
-✨ La tecnología es el lenguaje que uso para transformar ideas en realidades ✨  
-</h2>
-
-</div>
-
-
-¡Gracias por visitar mi portafolio! 😊
-
